@@ -1,3 +1,4 @@
-Name: Ironhacker
-Age: 25
-Favorite Color: Yellow
+Name: Alex
+Age: 30
+Favorite Color: Black
+Worst Color: Magenta
